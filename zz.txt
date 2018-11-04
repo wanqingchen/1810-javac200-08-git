@@ -1,1 +1,4 @@
-qqqqqqq
+public void run(){
+    int a = 0;
+    sort(a);
+}
